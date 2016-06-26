@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "118287257165",
+    "project_id": "gkds-1354"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118287257165:android:e060375d34b1b401",
+        "android_client_info": {
+          "package_name": "rukina.gkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118287257165-d8hpfl726i0a4f8mlni1tj33jcqelna6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rukina.gkd",
+            "certificate_hash": "2B6EEF2ADCF16C0C2AB34235C7429B4D970A51E1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbnrCylhV6zu2vm5hNwLCNM0FxkGg03uU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
