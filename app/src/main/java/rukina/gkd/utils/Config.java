@@ -9,7 +9,7 @@ public interface Config {
     static final String REG_USER = BASE_URL+"register?name=%s&mobile_no=%s&username=%s&password=%s&gcm_registration_id=%s";
 
     // Google Project Number
-    static final String GOOGLE_PROJECT_ID = "118287257165";
+    static final String GOOGLE_PROJECT_ID = "344395691830";
     static final String MESSAGE_KEY = "message";
 
     public static String PARAM_MESSAGE = "msg";
