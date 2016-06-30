@@ -4,7 +4,7 @@ public interface Config {
 
     // used to share GCM regId with application server - using php app server
 
-    static final String BASE_URL = "http://budnetdesign.in/gkd/api/";
+    static final String BASE_URL = "http://budnetdesign.in/school_demo/api/";
     static final String APP_SERVER_URL = BASE_URL+"login?username=%s&password=%s";
     static final String REG_USER = BASE_URL+"register?name=%s&mobile_no=%s&username=%s&password=%s&gcm_registration_id=%s";
 
